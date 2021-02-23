@@ -8,7 +8,7 @@ Python 3 based tool to crawl through Tenable web page and get the solutions of s
 I've made this script to facilitate my work daily tasks.
 
 ## Requirements
-Use the package manager to install de request lib
+Use the package manager to install de "requests" lib
 ```bash
 $ pip3 install requests
 ```
