@@ -43,13 +43,13 @@ i = 0
 def line_count(file_name):
     return sum(1 for line in open(file_name))
 
-qnt_total = line_count(file_name)
+total_amount = line_count(file_name)
 
 for pluginid in list:
         pluginid = pluginid.rstrip('\n')
         
         i = i + 1
-        sys.stdout.write ("Plugins: " + str(i) + " of " + str(qnt_total) + '\r')
+        sys.stdout.write ("Plugins: " + str(i) + " of " + str(total_amount) + '\r')
 
         
         header = {      "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0",
