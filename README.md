@@ -16,7 +16,7 @@ $ pip3 install requests
 ## Usage
 The usage of the script is too easy. You just need to type one flag and the result come.
 ```bash
-$ python3 nessus_v1.py -f plugins_id.txt
+$ python3 nessus_crawler_v1.py -f plugins_id.txt
 
 -f = File list containing all plugins id that you want to check de solution, line by line
 ```
