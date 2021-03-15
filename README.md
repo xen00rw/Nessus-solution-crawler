@@ -3,6 +3,7 @@
 ![created](https://img.shields.io/badge/platform-linux-blue)
 ![language](https://img.shields.io/badge/language-python-blue)
 [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/willxenoo)
+![Last_Update](https://img.shields.io/badge/Last%20Update-03%2F15%2F2021-blue)
 
 Python 3 based tool to crawl through Tenable web page and get the solutions of some plugins id based on a list.
 I've made this script to facilitate my work daily tasks.
